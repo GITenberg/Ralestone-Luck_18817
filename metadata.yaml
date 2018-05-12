@@ -1,0 +1,47 @@
+_repo: Ralestone-Luck_18817
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Reid, James
+    birthdate: 1907
+    deathdate: 1989
+    gutenberg_agent_id: '37153'
+    url: http://www.gutenberg.org/2009/agents/37153
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Norton, Andre
+    aliases:
+    - North, Andrew
+    - Norton, Andre Alice
+    - Norton, Alice Mary
+    birthdate: 1912
+    deathdate: 2005
+    gutenberg_agent_id: '7021'
+    url: http://www.gutenberg.org/2009/agents/7021
+    wikipedia: http://en.wikipedia.org/wiki/Andre_Norton
+description: Rupert Ralestone is officially the Marquess of Lorne - but with no family
+  money or prestige, the title is worthless. He and his younger brother and sister
+  return to the old family homestead - Pirate's Haven. Their only hope is to find
+  the sword that was the family's talisman for generations, the Ralestone Luck, and
+  restore it to its proper place. If they succeed, the family fortunes will follow.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2006-07-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18817'
+  lccn: '38021549'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Talismans -- Fiction'
+- !lcsh 'Brothers and sisters -- Fiction'
+- !lcsh 'Nobility -- Fiction'
+- !lcsh 'Louisiana -- Fiction'
+- !lcc 'PS'
+title: Ralestone Luck
+url: http://www.gutenberg.org/ebooks/18817
